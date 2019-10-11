@@ -16,6 +16,7 @@
 
 ![Image of bucatini](https://assets.bonappetit.com/photos/57afff221b33404414976058/16:9/w_2560,c_limit/bucatini-all-amatriciana.jpg)
 
+
 # RECIPE PREPARATION
 
 
@@ -23,6 +24,6 @@ Heat oil in a large heavy skillet over medium heat. Add guanciale and sauté unt
 Meanwhile, bring a large pot of water to a boil. Season with salt; add the pasta and cook, stirring occasionally, until 2 minutes before al dente. Drain, reserving 1 cup of pasta cooking water.
 Add drained pasta to sauce in skillet and toss vigorously with tongs to coat. Add 1/2 cup of the reserved pasta water and cook until sauce coats pasta and pasta is al dente, about 2 minutes. (Add a little pasta water if sauce is too dry.) Stir in cheese and transfer pasta to warmed bowls.
 
-Recipe by **Sarah Tenaglia**, **Selma Brown Morrow**, 
+Recipe by **Sarah Tenaglia**, **Selma Brown Morrow**, Photos by Jeff Lipsky
 
-Photos by Jeff Lipsky
+...and many thanks to @fpoggi
